@@ -2,7 +2,7 @@ name: M325
 channels:
   - QuantStack
   - conda-forge
-  - defaults
+  - nodefaults
 dependencies:
   - xeus-cling
   - notebook
