@@ -1,3 +1,4 @@
+name: M325
 channels:
   - QuantStack
   - conda-forge
